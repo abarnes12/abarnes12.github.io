@@ -1,0 +1,12 @@
+Title: About me
+Date: 2018-10-26
+Category: Personal
+Slug: about-me
+
+# Why did I make this blog?
+
+I decided to start this blog after coming across multiple posts mentioning that inspiring data scientists should write a blog. One of these posts was written by David Robinson on his [Variance Explained](http://varianceexplained.org/r/start-blog/) blog. As someone transitioning from academia to data science, this sounded like a good idea to me. With this blog I can showcase the work I've performed on the side, write tutorials/how-to's, and in general share my experience transitioning to and becoming a data scientist. I've found plenty of blogs providing guides but I haven't found many instances where people detail the difficulties they experienced upon entering the field. Everyone will have a different experience on their path into data science and I hope that mine will help prepare others for their own transition.
+
+# Who am I?
+
+I'm a nuclear physics PhD in the process of transitioning out of academia and into data science. During my time as a graduate student and a post-doc, I realized that industry held much more interest to me than an academic career. I began reading about data science as a field and started dabbling in machine learning competitions. Between Twitter and various podcasts, I learned the lingo and developed a good sense of the field. Through a network connection, I managed to land my first data science job at a small consulting start-up where my position was a mixture of data science and software development. Due to a loss of clients, we were let go which brings me to the creation of this blog.
