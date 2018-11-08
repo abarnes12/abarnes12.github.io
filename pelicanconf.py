@@ -4,10 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Alex Barnes'
 SITENAME = "Alex's Data Science Blog"
-SITEURL = ''
+SITEURL = 'localhost:8080'
+#SITEURL = ''
 SITETITLE = "Alex's Data Science Blog"
 SIDEBAR_DIGEST = 'Data scientist, software engineer, physicist'
 PROFILE_IMAGES = 'profile.png'
+
+MARKUP = ('md', 'ipynb')
 
 
 PATH = 'content'
@@ -16,8 +19,9 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'
 
-PLUGIN_PATHS = ['plugins', 'plugins/pelican-plugins']
+PLUGIN_PATHS = ['./plugins', './plugins/pelican-plugins']
 PLUGINS = ['ipynb.markup', 'tipue_search']
+IGNORE_FILES = [".ipynb_checkpoints"]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
